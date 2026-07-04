@@ -106,3 +106,7 @@ is kept, and on a 23-hour day that one hourly sensor is temporarily
 
 The API source requires attribution: "Data via euenergy.live (CC-BY-4.0). Attribution required." 
 This is automatically set as the `attribution` property on every sensor.
+
+
+*(**Disclaimer**: *
+*While the coding was rather simple I used Claude.ai to check the code and asked for improvements. Using this code is at your own risk and I will not be responsible for any provided code nor for the presented data.)*
