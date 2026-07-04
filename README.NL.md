@@ -104,3 +104,7 @@ aangehouden, op een 23-uursdag is die ene uursensor tijdelijk
 De API-bron vereist attributie: "Data via euenergy.live (CC-BY-4.0).
 Attribution required." — dit staat automatisch als `attribution` op elke
 sensor.
+
+
+*(**Disclaimer**: *
+*While the coding was rather simple I used Claude.ai to check the code and asked for improvements. Using this code is at your own risk and I will not be responsible for any provided code nor for the presented data.)*
